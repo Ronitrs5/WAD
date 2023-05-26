@@ -8,3 +8,5 @@ git commit -m "File has been updated"
 git log
 git remote add origin https://github.com/
 git push -u origin master
+
+type nul > hello.txt //creates a new file
